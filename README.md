@@ -9,7 +9,7 @@ Group Members
 
 Instructor:Bora Güngören
 
-Description:
+<b>Description:</b>
 
   Disc-OH-4 is "Connect Four" like game with bonuses and different size game boards. We think that everyone, in every age, who wants to play a boardgame and have fun may enjoy our game. This will be a game for 2 players. They will compete with each other, and the first one who can connect four disks. We planned to use keyboard as the input source of this game. In other word, the players will make their moves by using the keyboard. 
 	In addition to the original game, we are planning to add time limitations, bonuses and different game board sizes to make the gaming experience more fun, and we think that all of these additional features will be important for the system. Also, we are aware that the user may have some difficulties with time limitation and the logic of the game in the beginning and we hope that they will get used to those.
