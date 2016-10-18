@@ -1,13 +1,18 @@
-Disc-OH-4
-CS 319 Object Oriented Programming Course Project
+<b>Disc-OH-4</b>
 
-Group Members
+<b>CS 319 Object Oriented Programming Course Project</b>
+
+<b>Group Members</b>
+
 1.Abdürezzak Efe
+
 2.Enes Kavak
+
 3.Güneş Batmaz
+
 4.Mehmet Emre Arıoğlu
 
-Instructor:Bora Güngören
+<b>Instructor:</b>Bora Güngören
 
 <b>Description:</b>
 
